@@ -14,6 +14,4 @@ hey, I'm Sean. I build the things I wish existed, then run them on a mini PC und
 
 All of it runs on my homeserver. Sick ass homeserver. It runs my stuff without private businesses getting my info, and the code is all public now (except Seanify, Spotify would not like that).
 
-<br>
-
-<a href="https://www.seannuevo.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/para-po-dark.svg"><img src="assets/para-po-light.svg" alt="Para po. More at seannuevo.dev" width="160"></picture></a>
+more at [seannuevo.dev](https://www.seannuevo.dev)
